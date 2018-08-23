@@ -112,7 +112,6 @@ If you match the functionality perfectly you the two token list should be identi
 0
 >>> if my_tokens == tokens:
         print("Perfect solution!")
-
 Perfect solution!
 ```
 
@@ -127,7 +126,7 @@ You could wrap this code up in a helper function that also prints out the surrou
 
 **Is there anything you thought should have been handled differently in the tokenization process?**
 
-##4. Matching specific tokens with Regular Expressions
+## 4. Matching specific tokens with Regular Expressions
 
 ```python
 m = re.match(r'((\d+)\.(\d+))', '123.4567')
@@ -182,5 +181,5 @@ Chapter one introduces FreqDist(). We can use it to create a frequency distribut
 fd = nltk.FreqDist(tokens)
 ```
 
-**TODO: find the frequency of _starboard_, find the token that appears most frequently, and show the 15 most common tokens Also find the most frequent token that is not a stopword and how many times it appears.**
+**TODO: find the frequency of _starboard_, find the token that appears most frequently, and show the 15 most common tokens. Also find the most frequent token that is not a stopword and report how many times it appears in the text.**
 
