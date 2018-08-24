@@ -8,3 +8,5 @@ Lab assignments (and possible solutions) for T-725-MALV fall 2018
 * [NLTK book](http://www.nltk.org/book/)
 * [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
 * [NLTK videos from Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
+* [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) for [Visual Studio Code](https://code.visualstudio.com/)
+* [PyCharm](https://www.jetbrains.com/pycharm/) IDE
