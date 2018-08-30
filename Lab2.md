@@ -16,7 +16,7 @@ Use the [`otb.txt`](otb.txt) file from the lab's Github repo and any of `wc`, `h
 2. **Create a new text file named `small_otb.txt` containing only the first 5000 lines of `otb.txt`.**
 3. **Find the number of tokens in `otb.txt`.**
 4. **Find the number of nouns starting with the letter _s_ in `otb.txt`. (format 'lexeme/tag', nouns have tags starting with _n_).**
-5. **Create a new file named `angist.txt` that conatins only the lines from `otb.txt` contain the lexeme _angist_.**
+5. **Create a new file named `angist.txt` that contains only the lines from `otb.txt` that have the lexeme _angist_ in them.**
 
 # 2. More text processing tools
 
