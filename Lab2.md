@@ -72,7 +72,7 @@ def ngrams_from_tokens( token_list, n=2):
 
 # 4. Initial letter frequency for males vs. females
 
-**TODO: Define a conditional frequency distribution over the Names corpus that allows you to see which initial letters are more frequent for males vs. females** cf. 4.4 in chapter 2 [http://www.nltk.org/book/ch02.html#fig-cfd-gender].
+**TODO: Define a conditional frequency distribution over the Names corpus (see [1.6 in chapter 2](http://www.nltk.org/book/ch02.html#annotated-text-corpora)) that allows you to see which initial letters are more frequent for males vs. females** cf. 4.4 in chapter 2 [http://www.nltk.org/book/ch02.html#fig-cfd-gender].
 
 Exercise 8 in chapter 2: [http://www.nltk.org/book/ch02.html]
 
