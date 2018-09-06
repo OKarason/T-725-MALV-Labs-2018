@@ -4,10 +4,10 @@
 
 **_If you can't manage to complete a particular problem please hand in your incomplete solution._**
 
-Chapter 3 in the [NLTK book](http://www.nltk.org/book/) is relevant to this lab as well as the [[http://www.nltk.org/howto/collocations.html|NLTK Collocations howtow]] for the last problem.
+Chapter 3 in the [NLTK book](http://www.nltk.org/book/) is relevant to this lab as well as the [NLTK Collocations howto](http://www.nltk.org/howto/collocations.html) for the last problem.
 
 
-## 1. myscript.py: argv
+## 1. `myscript.py`: argv
 
 ```python
 from sys import argv
@@ -30,7 +30,7 @@ first_param = argv[1]    #using the index
 script_name, first, second, third = argv     #unpacking the argv list into four variables
 ```
 
-**TODO: Create a script named ''myscript.py'' that produces the following output when executed with the parameters indicated:**
+**TODO: Create a script named `myscript.py` that produces the following output when executed with the parameters indicated:**
 
 ```
 $ python myscript.py file1.txt file2.txt
@@ -40,7 +40,7 @@ First parameter: file1.txt
 Second parameter: file2.txt
 ```
 
-[Information on executing Python scripts in Windows](https://docs.python.org/3.3/using/cmdline.html#using-on-cmdline).
+[Information on executing Python scripts from the command line](https://docs.python.org/3.3/using/cmdline.html#using-on-cmdline).
 
 ## 2. `mytokenize.py`: Read file
 
