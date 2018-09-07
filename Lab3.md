@@ -1,6 +1,6 @@
 # Lab 3
 
-**Try to complete as many of the problems as you can. Hand in your code in Canvas before midnight tomorrow (7 September). Three files, `myscript.py`, `mytokenizer.py` and `FullName_lab3.txt` containing the solutions to problems 3 and 4.**
+**Try to complete as many of the problems as you can. Hand in your code in Canvas before midnight tomorrow (7 September). Three files, `myscript.py`, `mytokenizer.py` and `FullName_lab3.py` containing the solutions to problems 3 and 4.**
 
 **_If you can't manage to complete a particular problem please hand in your incomplete solution._**
 
