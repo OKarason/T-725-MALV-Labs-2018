@@ -3,7 +3,8 @@ Lab assignments (and possible solutions) for T-725-MALV fall 2018
 
 * [Lab 1](Lab1.md), [solutions](Sol1.md).
 * [Lab 2](Lab2.md), text files [otb.txt](otb.txt) and [mobydick.txt](mobydick.txt), [solutions](Sol2.md).
-* [Lab 3](Lab3.md).
+* [Lab 3](Lab3.md), [solutions](Sol3.md).
+* [Lab 4](Lab4.md).
 
 ## Links
 
