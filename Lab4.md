@@ -50,7 +50,7 @@ Evaluate the taggers performance on the testing sentences. How well does it do? 
 
 ## 3. A Cascade of Taggers
 
-Extend the tagger combination in [[http://www.nltk.org/book/ch05.html#combining-taggers|5.4 Combining Taggers]] by defining a `TrigramTagger` called `t3`, which backs off to `t2` as suggested.
+Extend the tagger combination (see [5.4 Combining Taggers](http://www.nltk.org/book/ch05.html#combining-taggers)) by defining a `TrigramTagger` called `t3`, which backs off to `t2` as suggested.
 
 ```python
 t0 = nltk.DefaultTagger('NN')
