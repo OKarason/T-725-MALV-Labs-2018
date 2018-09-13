@@ -4,7 +4,7 @@
 
 **_If you can't manage to complete a particular problem please hand in your incomplete solution._**
 
-Chapter 4 in the [NLTK book](http://www.nltk.org/book/) is relevant to this lab.
+[Chapter 5 in the NLTK book](http://www.nltk.org/book/ch05.html) is relevant to this lab.
 
 
 ## 1. Down the Garden Path
