@@ -22,6 +22,7 @@ def bag_of_words(words):
 negative = movie_reviews.fileids('neg')
 positive = movie_reviews.fileids('pos')
 
+# Assign the features to the two labels (good/bad)
 negative_features = [(bag_of_words(movie_reviews.words(fileids=[f])), 'bad') for f in negative]
 positive_features = [(bag_of_words(movie_reviews.words(fileids=[f])), 'good') for f in positive]
 
@@ -114,7 +115,7 @@ The model has a couple of methods to query it. Note that you will get an excepti
 
 In section 1 and 2 we used a very simple feature set, i.e. all the words that occured in each review. The purpose of this problem is to get you thinking about what would make good features. For example, what is bad about the _bag of words_ feature set implementation?
 
-Your task is to think of better feature set implementations. Describe them in comments, explain why you think they would be an improvement and then try to implement them. The goal can either be to gain a higher accuracy or to streamline the learning process. Report the results also in comments -- remember to say which algorithm is being used.
+Your task is to think of better feature set implementations. That could be a new function to replace `bag_of_words()` or something more elaborate. Describe them in comments, explain why you think they would be an improvement and then try to implement them. The goal can either be to gain a higher accuracy or to streamline the learning process. Report the results also in comments -- remember to say which algorithm is being used.
 
 Feel free to use another corpus instead of the movie reviews if that suites the task better, but remember there has to be some dichotomy or categories (labels) to learn. If you are completely stumped you could use an imaginary corpus that you would then have to describe.
 
