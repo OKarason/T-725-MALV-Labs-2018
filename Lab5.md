@@ -9,8 +9,7 @@
 ## 1. Naive Bayes classifier
 
 ```python
-import nltk.classify.util
-from nltk.classify import NaiveBayesClassifier
+from nltk.classify import NaiveBayesClassifier, util
 from nltk.corpus import movie_reviews
  
 # A helper function to create features
