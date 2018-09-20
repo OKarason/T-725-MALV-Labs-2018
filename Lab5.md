@@ -17,7 +17,7 @@ from nltk.corpus import movie_reviews
 # A helper function to create features
 def bag_of_words(words):
     return dict([('contains(%s)' % word, True) for word in words])
-    # Assigns the feature ('contains(some-word)', True) for each word in the review to the review type (good/bad)
+    # Creates the feature ('contains(some-word)', True) for each word in the review
 
 negative = movie_reviews.fileids('neg')
 positive = movie_reviews.fileids('pos')
