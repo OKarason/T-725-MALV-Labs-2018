@@ -4,7 +4,7 @@
 
 **_Try to complete as much as you can. If you can't manage to complete a particular problem please hand in your incomplete solution._**
 
-The [Classification HOWTO](http://www.nltk.org/howto/classify.html) and sections of the [NLTK Classification API documentation](https://www.nltk.org/api/nltk.classify.html) are relevant to this lab.
+[Chapter 6 in the NLTK book](https://www.nltk.org/book/ch06.htmll), the [Classification HOWTO](http://www.nltk.org/howto/classify.html) and sections of the [NLTK Classification API documentation](https://www.nltk.org/api/nltk.classify.html) are relevant to this lab.
 
 ## 1. Naive Bayes classifier
 
@@ -111,7 +111,7 @@ The model has a couple of methods to query it. Note that you will get an excepti
 
 ## 4. Back to the features
 
-In sectoins 1 and 2 we used a very simple feature set, i.e. all the words that occured in each review. The purpose of this problem is to get you thinking about what would make good features. For example, what is bad about the _bag of words_ feature set implementation?
+In section 1 and 2 we used a very simple feature set, i.e. all the words that occured in each review. The purpose of this problem is to get you thinking about what would make good features. For example, what is bad about the _bag of words_ feature set implementation?
 
 Your task is to think of better feature set implementations. Describe them in comments, explain why you think they would be an improvement and then try to implement them. The goal can either be to gain a higher accuracy or to streamline the learning process. Report the results also in comments -- remember to say which algorithm is being used.
 
