@@ -8,6 +8,8 @@
 
 ## 1. Naive Bayes classifier
 
+Your task is simply to familiarlize yourselves with the classifier, try it out and understand how it works. Feel free to make some changes to see what affect they might have.
+
 ```python
 from nltk.classify import NaiveBayesClassifier, util
 from nltk.corpus import movie_reviews
