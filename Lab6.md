@@ -2,13 +2,15 @@
 
 **Hand in your solution in Canvas before midnight tomorrow (28 September). A single `fullName_lab6.py` file containing the solution.**
 
-__Note: Neither Tensorflow nor the library Keras that Tensorflow uses works with Python 3.7. So those that have installed version 3.7 have to downgrade to version 3.6.6 or lower. ;(. See bottom of page for some help with doing that. An alternative is to use the [Collab page for the tutorial](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/basic_text_classification.ipynb).__
+The API documentation for [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/) might come in handy during this lab.
+
+__Note: Neither TensorFlow nor the library Keras that TensorFlow uses works with Python 3.7. So those that have installed version 3.7 have to downgrade to version 3.6.6 or lower. ;(. See bottom of page for some help with doing that. An alternative is to use the [Collab page for the tutorial](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/basic_text_classification.ipynb).__
 
 ## Text classification using a Neural Network
 
-Follow the [Text classification with movie reviews](https://www.tensorflow.org/tutorials/keras/basic_text_classification) tutorial on the Tensorflow homepage. It is not neccessary to create the plot at the end.
+Follow the [Text classification with movie reviews](https://www.tensorflow.org/tutorials/keras/basic_text_classification) tutorial on the TensorFlow homepage. It is not neccessary to create the plot at the end.
 
-You have to begin by installing the Tensorflow library.
+You have to begin by installing the TensorFlow library.
 
 ```python
 $ pip3 install tensorflow
