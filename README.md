@@ -1,6 +1,7 @@
 # T-725-MALV -- Labs 2018
 Lab assignments (and possible solutions) for T-725-MALV fall 2018
 
+* [Lab 6](Lab6.md).
 * [Lab 5](Lab5.md).
 * [Lab 4](Lab4.md).
 * [Lab 3](Lab3.md), [solutions](Sol3.md).
