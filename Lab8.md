@@ -1,4 +1,4 @@
-# Lab 7
+# Lab 8
 
 **Hand in your code in Canvas before midnight tomorrow (12 October). One or two `.py` files containing the solutions.**
 
