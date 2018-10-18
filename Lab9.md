@@ -90,4 +90,7 @@ True
 --> quit
 ```
 
+Here we want to pass `tree.label()['SEM']` from the parser the `evaluate()` method of the model.
+
+
 **Note** that `tree.label()['SEM']` returns an object of type `nltk.sem.logic.ApplicationExpression` (as can be seen by checking its type with `type()`) and not a string even though you can print it out. To use it in `evaluate()` it has to be turned into a string. The simplest way to do that is to use `str(semantic_expression)` or the format operator `"%s" % semantic_representation` which return a string.
