@@ -28,7 +28,7 @@ First, pretend that you are a computer that is processing this text and trying t
     - If the NP is a personal pronoun, link it to the first discourse entity in L that matches in number and gender, starting with the most recent entry. Record our NP as a subsequent reference to the entity (anaphor).
   * Show each entry of L on a separate line, with all found coreferences to it (antecedent and anaphors).
 
-_*Note* that you could use POS tagging [Lab 4](Lab4.md) and Regular Expression NP-Chunking [Lab 8](Lab8.md) to aid you in the process._
+_*Note* that you could use POS tagging ([Lab 4](Lab4.md)) and Regular Expression NP-Chunking ([Lab 8](Lab8.md)) to aid you in the process._
 
 ## 2. Resolving Coreferences Manually
 
