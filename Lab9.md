@@ -1,6 +1,6 @@
 # Lab 9
 
-**Try to complete as much as you can. Hand in a python code file (`fullName_lab9.py`) and a grammar file (e.g. `grammar.fcfg`) with what you have finished in MySchool before midnight tomorrow (19 October).**
+**Try to complete as much as you can. Hand in a python code file (`fullName_lab9.py`) and a grammar file (e.g. `grammar.fcfg`) with what you have finished in Canvas before midnight tomorrow (19 October).**
 
 If you can't manage to complete the problem please hand in your incomplete code -- comment it out if it produces an error.
 
